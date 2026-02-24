@@ -50,7 +50,7 @@ FinRAG/
 
 ### 1. Клонування репозиторію
 ```bash
-git clone https://github.com/твоє_імя/FinRAG.git
+git clone https://github.com/fiks9/FinRAG.git
 cd FinRAG
 ```
 
