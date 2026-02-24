@@ -5,8 +5,6 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Integration-green.svg)](https://python.langchain.com/)
 [![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-orange.svg)](https://groq.com/)
 
-**FinRAG** - це преміальний, розумний векторний AI-асистент, розроблений для миттєвого пошуку та відповідей на питання щодо банківських тарифів, комісій та умов обслуговування. 
-
 Система використовує архітектуру RAG (Retrieval-Augmented Generation), щоб аналізувати офіційні PDF-документи банку та генерувати точні відповіді _без галюцинацій_, базуючись виключно на знайденому контексті. Візуальний інтерфейс побудовано на базі глибоко кастомізованого темного дизайну Streamlit, що імітує преміальні фінтех-продукти.
 
 ![FinRAG Interface](./assets/screenshot.png)
